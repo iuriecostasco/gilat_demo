@@ -1,0 +1,4 @@
+Some text here
+Conflict2 more line
+This line was added to the branch
+4th line
